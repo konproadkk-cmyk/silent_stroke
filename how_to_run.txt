@@ -1,0 +1,3 @@
+1.create conda environment
+    1.1 conda create -n stroke-collect-data python=3.11 -y
+    1.2 conda activate stroke-collect-data
